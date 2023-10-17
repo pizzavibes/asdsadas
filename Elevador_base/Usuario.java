@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Usuario {
 
     private static int nextInt() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+        throw new UnsupportedOperationException("Not supported yet."); 
     }
  private int piso_usuario;
  
